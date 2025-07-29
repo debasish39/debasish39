@@ -7,12 +7,11 @@
  • REST APIs with Django Rest Framework (DRF)  
  • Frontend development with React, Tailwind, Axios  
  • JWT-based authentication systems  
- • Database management using PostgreSQL/MySQL  
- • Deployments via Heroku, Render, or Docker  
+ • Database management using MySQL  
+ • Deployments via Netlify,Vercel
 
 🤝 I’m looking for help with:  
- • CI/CD, Docker, and production-ready deployments  
- • Scalable React apps using Hooks, Redux, or Next.js  
+ • Scalable React apps using Hooks, Redux
 
 ⚡ Fun fact:  
 I love turning complex backend logic into clean APIs — and seeing it come alive in an interactive React UI!
